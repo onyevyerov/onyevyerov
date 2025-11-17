@@ -1,4 +1,4 @@
-# 👋 Hi! I am Oleg. 
+# 👋 Hi! I am Oleg
 I am a Python Backend Developer focused on building clean and reliable APIs with Django, Django REST Framework, and FastAPI.  
 I enjoy designing logical systems, optimizing processes, and learning new technologies.
 Currently, I'm growing into a full-stack role, exploring React and modern frontend development.
@@ -41,3 +41,8 @@ Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as we
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=oleg.nyevyerov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-nyevyerov-358657375/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oleg_nyevyerov)
+<br></br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=onyevyerov&&style=flat-square" align="center" />
+</div>  
