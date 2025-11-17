@@ -38,6 +38,6 @@ Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as we
 <br></br>
 ## 📫 Contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleg.nyevyerov@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=oleg.nyevyerov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-nyevyerov-358657375/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oleg_nyevyerov)
