@@ -1,11 +1,11 @@
 # 👋 Hi! I am Oleg. 
 I am a Python Backend Developer focused on building clean and reliable APIs with Django, Django REST Framework, and FastAPI.  
 I enjoy designing logical systems, optimizing processes, and learning new technologies.
-Currently I'm growing into a full-stack role, exploring React and modern frontend development.
+Currently, I'm growing into a full-stack role, exploring React and modern frontend development.
 
 Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as well as brewing specialty tea & coffee or playing PC games. 
 
-I'm open to junior backend opportunities and always excited to collaborate on interesting projects.
+***I'm open to junior backend opportunities and always excited to collaborate on interesting projects.***
 <br/>  
 ## 🛠️ Backend stack
 
@@ -24,7 +24,7 @@ I'm open to junior backend opportunities and always excited to collaborate on in
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
 
-## 🌱 Ready to learn
+## 🚀 Ready to learn
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
@@ -34,3 +34,4 @@ I'm open to junior backend opportunities and always excited to collaborate on in
 
 ## 🔭 Currently working on
 **[Car rental service](https://github.com/onyevyerov/car-rental-service)** — online car rental management system. The platform will allow users to register, view available cars, make reservations, return cars, and handle payments via Stripe. The staff will receive Telegram notifications about new rentals, late returns, and successful payments. 
+
