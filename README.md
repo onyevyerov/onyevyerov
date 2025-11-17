@@ -38,6 +38,6 @@ Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as we
 
 ## 📫 Contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-202124?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-202124?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your_profile)
-[![Telegram](https://img.shields.io/badge/Telegram-202124?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/your_username)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
