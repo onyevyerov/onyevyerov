@@ -36,3 +36,8 @@ Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as we
 ## 🔭Currently working on
 **[Car rental service](https://github.com/onyevyerov/car-rental-service)** — online car rental management system. The platform will allow users to register, view available cars, make reservations, return cars, and handle payments via Stripe. The staff will receive Telegram notifications about new rentals, late returns, and successful payments. 
 
+## 📫 Contact me
+
+[![Gmail](https://img.shields.io/badge/Gmail-202124?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-202124?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your_profile)
+[![Telegram](https://img.shields.io/badge/Telegram-202124?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/your_username)
