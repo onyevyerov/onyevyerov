@@ -6,7 +6,7 @@ Currently, I'm growing into a full-stack role, exploring React and modern fronte
 Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as well as brewing specialty tea & coffee or playing PC games. 
 
 ***I'm open to junior backend opportunities and always excited to collaborate on interesting projects.***
-<br/>  
+<br></br>
 ## 💻Tech stack
 ### 🛠️Backend
 
@@ -32,12 +32,12 @@ Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as we
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
-
+<br></br>
 ## 🔭Currently working on
 **[Car rental service](https://github.com/onyevyerov/car-rental-service)** — online car rental management system. The platform will allow users to register, view available cars, make reservations, return cars, and handle payments via Stripe. The staff will receive Telegram notifications about new rentals, late returns, and successful payments. 
-
+<br></br>
 ## 📫 Contact me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleg.nyevyerov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-nyevyerov-358657375/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/oleg_nyevyerov)
