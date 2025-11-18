@@ -5,8 +5,8 @@ Currently, I'm growing into a full-stack role, exploring React and modern fronte
 
 Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as well as brewing specialty tea & coffee or playing PC games. 
 
-***I'm open to junior backend opportunities and always excited to collaborate on interesting projects.***
-<br></br>
+### ***I'm open to junior backend opportunities and always excited to collaborate on interesting projects.***
+
 ## 💻Tech stack
 ### 🛠️Backend
 
