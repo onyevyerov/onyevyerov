@@ -6,7 +6,7 @@ Currently, I'm growing into a full-stack role, exploring React and modern fronte
 Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as well as brewing specialty tea & coffee or playing PC games. 
 
 ### ***I'm open to junior backend opportunities and always excited to collaborate on interesting projects.***
-
+<br></br>
 ## 💻Tech stack
 ### 🛠️Backend
 
@@ -33,9 +33,15 @@ Outside of coding, you’ll find me at the gym, climbing wall, or cycling, as we
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
 <br></br>
-## 🔭Currently working on
-**[Car rental service](https://github.com/onyevyerov/car-rental-service)** — online car rental management system. The platform will allow users to register, view available cars, make reservations, return cars, and handle payments via Stripe. The staff will receive Telegram notifications about new rentals, late returns, and successful payments. 
-<br></br>
+
+## 🗂️ Portfolio
+**[Restaurant Kitchen Service](https://github.com/onyevyerov/restaurant-kitchen-service)** — management system, in which Cooks can create new dishes & dishtypes, and also specify, Cooks which are responsible for every dishes cooking. 
+
+**[Theatre API](https://github.com/onyevyerov/theatre_api)** — API for a theater service that allows people to browse available performances and buy tickets without leaving home.
+
+**[Solar panel calculator](https://github.com/onyevyerov/solar_panel_calculator)** — a high-performance Python service designed to automate the structural engineering of solar arrays. This system calculates precise 2D coordinates for structural mounts on rafters and inter-panel joints based on complex geometric constraints and business logic.
+
+**[Contact Management System with Weather Integration](https://github.com/onyevyerov/contact_app)** — a professional recruitment task built with Django, featuring a robust contact database, dynamic weather updates, and bulk data processing.
 ## 📫 Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=oleg.nyevyerov@gmail.com)
