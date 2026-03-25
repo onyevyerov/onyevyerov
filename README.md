@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 **Passionate Python Backend Developer** specializing in clean, reliable API design and asynchronous programming. I recently completed an intensive 9-month bootcamp at **MATE.ACADEMY** (Aug 2024 - Jun 2025) with **389+ hands-on coding tasks**, delivering **4+ production-ready projects** ranging from high-load booking systems to algorithmic calculation engines.
 
@@ -28,7 +28,7 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### **Backend & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,7 +83,7 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
   
@@ -97,7 +97,7 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 ### 🏢 **AI Company Brochure Generator** — Intelligent Web Scraping & Content Generation
 **AI-powered tool that automatically analyzes company websites and generates polished marketing brochures using OpenAI's GPT models**
 
@@ -190,7 +190,7 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 ---
 
-## 🎓 Education & Certifications
+# 🎓 Education & Certifications
 
 ### **MATE.ACADEMY** | Python Backend Development Bootcamp
 📅 **Aug 2024 - Jun 2025** | Wrocław, Poland
@@ -211,7 +211,7 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 ---
 
-## 🌱 What I'm Currently Working On
+# 🌱 What I'm Currently Working On
 
 ```python
 current_focus = {
@@ -235,7 +235,7 @@ current_focus = {
     "goal": "Become an AI Engineer who builds production-ready intelligent systems"
 }
 ```
-## 💬 Languages
+# 💬 Languages
 
 🇬🇧 **English:** Fluent (C1) — Professional working proficiency  
 🇵🇱 **Polish:** Fluent (C1) — Full professional proficiency  
@@ -243,7 +243,7 @@ current_focus = {
 
 ---
 
-## 📫 Let's Connect!
+# 📫 Let's Connect!
 
 I'm **actively seeking junior backend & AI engineering opportunities** where I can build intelligent systems, contribute to AI-driven projects, and grow professionally. If you're looking for a dedicated developer with a strong foundation in **Python, Django, FastAPI, and AI technologies** (OpenAI, LangChain, RAG)—**let's talk!**
 
