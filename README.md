@@ -98,6 +98,23 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 ---
 
 ## 🚀 Featured Projects
+### 🏢 **AI Company Brochure Generator** — Intelligent Web Scraping & Content Generation
+**AI-powered tool that automatically analyzes company websites and generates polished marketing brochures using OpenAI's GPT models**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-306998?style=flat-square&logo=python&logoColor=white)
+![dotenv](https://img.shields.io/badge/.env-ECD53F?style=flat-square&logo=dotenv&logoColor=black)
+
+**Key Features:**
+- ✅ Scrapes landing page content and extracts all navigable links using **BeautifulSoup**
+- ✅ Leverages **GPT-5-nano** to intelligently select the most relevant pages (About, Careers, Company, etc.) via structured JSON output
+- ✅ Aggregates multi-page content and generates a comprehensive markdown brochure with **GPT-4.1-mini**
+- ✅ Produces investor-, customer-, and recruit-ready brochures covering mission, culture, and career opportunities
+
+💻 [Source Code](https://github.com/onyevyerov/brochure-creator)
+
+---
 
 ### 🌞 **Solar Panel Calculator** — Geometric Algorithm Service
 **High-performance Python service for automating structural engineering of solar arrays**
