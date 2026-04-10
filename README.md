@@ -122,9 +122,9 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 **High-performance Python service for automating structural engineering of solar arrays**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-FFD700?style=flat-square&logoColor=white)
 
 **Key Features:**
 - ✅ Calculates precise 2D coordinates for structural mounts and inter-panel joints based on complex geometric constraints
@@ -137,20 +137,22 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 ---
 
 ### 🎭 **Theatre API** — Online Booking System
-**RESTful API for theater ticket sales handling 500+ concurrent booking requests**
+**RESTful API for theater ticket sales: performances, halls, orders & tickets**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 
 **Key Features:**
-- ✅ Engineered complex seat reservation algorithm supporting **5+ hall categories** with real-time availability
-- ✅ **85%+ test coverage** using Pytest with unit and integration tests
-- ✅ Deployed with **Docker Compose**, PostgreSQL, and **Redis caching layer**
-- ✅ Secure JWT authentication and role-based access control
+- ✅ Full CRUD for plays, genres, actors, theatre halls, performances, orders & tickets
+- ✅ Filtering and annotations for performances and plays
+- ✅ Image upload for plays via API
+- ✅ Secure JWT authentication and admin panel
+- ✅ Deployed with **Docker Compose** and PostgreSQL
+- ✅ Auto-generated API docs via **Swagger / drf-spectacular**
 
 💻 [Source Code](https://github.com/onyevyerov/theatre_api)
 
