@@ -100,24 +100,6 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 ---
 
 # 🚀 Featured Projects
-### 🏢 **AI Company Brochure Generator** — Intelligent Web Scraping & Content Generation
-**AI-powered tool that automatically analyzes company websites and generates polished marketing brochures using OpenAI's GPT models**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-306998?style=flat-square&logo=python&logoColor=white)
-![dotenv](https://img.shields.io/badge/.env-ECD53F?style=flat-square&logo=dotenv&logoColor=black)
-
-**Key Features:**
-- ✅ Scrapes landing page content and extracts all navigable links using **BeautifulSoup**
-- ✅ Leverages **GPT-5-nano** to intelligently select the most relevant pages (About, Careers, Company, etc.) via structured JSON output
-- ✅ Aggregates multi-page content and generates a comprehensive markdown brochure with **GPT-4.1-mini**
-- ✅ Produces investor-, customer-, and recruit-ready brochures covering mission, culture, and career opportunities
-
-💻 [Source Code](https://github.com/onyevyerov/brochure-creator)
-
----
-
 ### 🌞 **Solar Panel Calculator** — Geometric Algorithm Service
 **High-performance Python service for automating structural engineering of solar arrays**
 
@@ -158,22 +140,21 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 ---
 
-### 🍽️ **Restaurant Kitchen Service** — Inventory Management System
-**Real-time ingredient tracking and staff assignment management**
+### 🏢 **AI Company Brochure Generator** — Intelligent Web Scraping & Content Generation
+**AI-powered tool that automatically analyzes company websites and generates polished marketing brochures using OpenAI's GPT models**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-306998?style=flat-square&logo=python&logoColor=white)
+![dotenv](https://img.shields.io/badge/.env-ECD53F?style=flat-square&logo=dotenv&logoColor=black)
 
 **Key Features:**
-- ✅ Built custom **administrative dashboard** with intuitive UI/UX for inventory control
-- ✅ **Role-based access control** ensuring secure data management across multiple user levels
-- ✅ Integrated **responsive front-end design** using Bootstrap for mobile and desktop accessibility
-- ✅ Real-time tracking system for ingredients and staff assignments
+- ✅ Scrapes landing page content and extracts all navigable links using **BeautifulSoup**
+- ✅ Leverages **GPT-5-nano** to intelligently select the most relevant pages (About, Careers, Company, etc.) via structured JSON output
+- ✅ Aggregates multi-page content and generates a comprehensive markdown brochure with **GPT-4.1-mini**
+- ✅ Produces investor-, customer-, and recruit-ready brochures covering mission, culture, and career opportunities
 
-💻 [Source Code](https://github.com/onyevyerov/restaurant-kitchen-service)
+💻 [Source Code](https://github.com/onyevyerov/brochure-creator)
 
 ---
 
