@@ -107,6 +107,7 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-FFD700?style=flat-square&logoColor=white)
+![CI](https://github.com/onyevyerov/solar_panel_calculator/actions/workflows/ci.yml/badge.svg)
 
 **Key Features:**
 - ✅ Calculates precise 2D coordinates for structural mounts and inter-panel joints based on complex geometric constraints
