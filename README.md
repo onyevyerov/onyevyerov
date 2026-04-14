@@ -138,23 +138,34 @@ When I'm not coding, you'll find me at the gym 🏋️, on a climbing wall 🧗,
 
 💻 [Source Code](https://github.com/onyevyerov/theatre_api)
 
----
+[//]: # (---)
 
-### 🏢 **AI Company Brochure Generator** — Intelligent Web Scraping & Content Generation
-**AI-powered tool that automatically analyzes company websites and generates polished marketing brochures using OpenAI's GPT models**
+[//]: # (### 🏢 **AI Company Brochure Generator** — Intelligent Web Scraping & Content Generation)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-306998?style=flat-square&logo=python&logoColor=white)
-![dotenv](https://img.shields.io/badge/.env-ECD53F?style=flat-square&logo=dotenv&logoColor=black)
+[//]: # (**AI-powered tool that automatically analyzes company websites and generates polished marketing brochures using OpenAI's GPT models**)
 
-**Key Features:**
-- ✅ Scrapes landing page content and extracts all navigable links using **BeautifulSoup**
-- ✅ Leverages **GPT-5-nano** to intelligently select the most relevant pages (About, Careers, Company, etc.) via structured JSON output
-- ✅ Aggregates multi-page content and generates a comprehensive markdown brochure with **GPT-4.1-mini**
-- ✅ Produces investor-, customer-, and recruit-ready brochures covering mission, culture, and career opportunities
+[//]: # ()
+[//]: # (![Python]&#40;https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&#41;)
 
-💻 [Source Code](https://github.com/onyevyerov/brochure-creator)
+[//]: # (![OpenAI]&#40;https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&#41;)
+
+[//]: # (![BeautifulSoup]&#40;https://img.shields.io/badge/BeautifulSoup-306998?style=flat-square&logo=python&logoColor=white&#41;)
+
+[//]: # (![dotenv]&#40;https://img.shields.io/badge/.env-ECD53F?style=flat-square&logo=dotenv&logoColor=black&#41;)
+
+[//]: # ()
+[//]: # (**Key Features:**)
+
+[//]: # (- ✅ Scrapes landing page content and extracts all navigable links using **BeautifulSoup**)
+
+[//]: # (- ✅ Leverages **GPT-5-nano** to intelligently select the most relevant pages &#40;About, Careers, Company, etc.&#41; via structured JSON output)
+
+[//]: # (- ✅ Aggregates multi-page content and generates a comprehensive markdown brochure with **GPT-4.1-mini**)
+
+[//]: # (- ✅ Produces investor-, customer-, and recruit-ready brochures covering mission, culture, and career opportunities)
+
+[//]: # ()
+[//]: # (💻 [Source Code]&#40;https://github.com/onyevyerov/brochure-creator&#41;)
 
 ---
 
